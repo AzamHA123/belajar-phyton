@@ -1,0 +1,6 @@
+sayHelloTo=lambda name : print("HELLO",name)
+sayHelloTo("aam")
+plus = lambda n1 , n2 :print(n1+n2)
+plus(1,1)
+(lambda fruit : print("saya suka",fruit))("nanas")
+(lambda name="": print("Halo"))()
