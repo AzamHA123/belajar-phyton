@@ -1,0 +1,6 @@
+n_list=list(range(10))
+print(n_list)
+n_list2=list(range(5,10))
+print(n_list2)
+n_list3=list(range(1,10,2))
+print(n_list3)
